@@ -19,7 +19,7 @@ The **Employee Salary Predictor** bridges the gap between machine learning model
 
 ## 🛠️ Tech Stack
 
-* **Frontend/Dashboard:** [Streamlit](https://employee-salary-prediction-n.streamlit.app/)
+* **Frontend/Dashboard:** [Streamlit](https://salary-prediction-n.streamlit.app/)
 * **Machine Learning & Modeling:** Python, Scikit-Learn, Pandas, NumPy
 * **Data Visualization:** Matplotlib / Seaborn / Plotly
 
